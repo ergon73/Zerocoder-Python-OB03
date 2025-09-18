@@ -1,0 +1,33 @@
+{
+    "name": "Центральный Зоопарк",
+    "animals": [
+        {
+            "type": "Mammal",
+            "name": "Лев Лео",
+            "age": 5,
+            "fur_color": "золотистый"
+        },
+        {
+            "type": "Bird",
+            "name": "Попугай Полли",
+            "age": 2,
+            "wing_span": 0.4
+        },
+        {
+            "type": "Reptile",
+            "name": "Крокодил Карл",
+            "age": 10,
+            "is_venomous": false
+        }
+    ],
+    "employees": [
+        {
+            "type": "ZooKeeper",
+            "name": "Иван"
+        },
+        {
+            "type": "Veterinarian",
+            "name": "Мария"
+        }
+    ]
+}
